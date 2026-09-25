@@ -1,0 +1,1 @@
+I am testing Git as a test file.
